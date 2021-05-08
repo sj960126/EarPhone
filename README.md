@@ -1,7 +1,7 @@
-# earphone
+# Earphone
 ### Deep learning sound detection system
 ---
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3fb769-475d-4bdd-bce1-6a325405e196/_2021-04-27__6.11.26.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3fb769-475d-4bdd-bce1-6a325405e196/_2021-04-27__6.11.26.png)
 ## 📱 담당한 기능 (Android)
 
 - ForegroundService를 이용 24시간 소리를 듣는 알고리즘 구현
