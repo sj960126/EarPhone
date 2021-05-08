@@ -1,7 +1,10 @@
 # Earphone
 ### Deep learning sound detection system
 ---
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3fb769-475d-4bdd-bce1-6a325405e196/_2021-04-27__6.11.26.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3fb769-475d-4bdd-bce1-6a325405e196/_2021-04-27__6.11.26.png)
+## 📝 개요 
+
+2019 신규 등록 장애인 중 가장 많은 비중을 나타낸 장애유형은 청각(39.3%)으로 많은 사람이 청각 장애로 많은 불편함을 느끼고 살고 있습 니다. 이어폰 서비스는 앱 주변 소음을 감지하여 일정 데시벨 이상의 소음 발생 시 앱이 소리를 녹음하여 딥러닝 모델을 통하여 소음의 종류 를 분류한 후 사용자에게 서비스하는 청각 장애인 위험감지 시스템입니다.
+
 ## 📱 담당한 기능 (Android)
 
 - ForegroundService를 이용 24시간 소리를 듣는 알고리즘 구현
